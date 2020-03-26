@@ -1,0 +1,18 @@
+#logop {
+    height: 80px;
+    width: 80px;
+}
+.logob{
+    height: 100px;
+    width: 100px;
+    border-radius: 360px;
+}
+nav {
+    background-color: black;
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
